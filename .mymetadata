@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="XQT2"
+  id="myeclipse.1509084727215"
+  context-root="/XQT2"
+  j2ee-spec="5.0"
+  archive="XQT2.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
